@@ -18,17 +18,17 @@ data/ADMET: Data about the ADMET (Absorption, Distribution, Metabolism, Excretio
 
 data/Molecular_Docking: The molecular docking data encompasses the binding interactions between the lycorine analogs and the NS5 RdRp of DENV3 and ZIKV.  This data includes docking scores (PDB targets, XP Glide scores, and ligand interaction figures).
 
-data/Molecular_Dynamics:The molecular dynamics (MD) data consists of graph of simulations that model the behavior of the lycorine analogs in complex with the NS5 RdRp over time (RMSD, RMSF, and REPLICA).
+data/Molecular_Dynamics:The molecular dynamics (MD) data comprises graphs of RMSD, RMSF, and their replicas from the simulations, modeling the behavior of the lycorine analogs in complex with the NS5 RdRp over time.
 
 Authors: 
 
-Adri·n-Camilo RodrÌguez-Ararat4, Yasser Hayek-Orduz1, AndrÈs-Felipe V·squez1,3, Felipe Sierra-Hurtado1, MarÌa-Francisca Villegas-Torres2,4, Paola A. Caicedo-Burbano4, Luke-E.K. Achenie5, AndrÈs Fernando Gonz·lez Barrios1*
+Adri√°n-Camilo Rodr√≠guez-Ararat4**, Yasser Hayek-Orduz1, Andr√©s-Felipe V√°squez1,3, Felipe Sierra-Hurtado1, Mar√≠a-Francisca Villegas-Torres2,4, Paola A. Caicedo-Burbano4, Luke-E.K. Achenie5, Andr√©s Fernando Gonz√°lez Barrios1*
 
-1 Grupo de DiseÒo de Productos y Procesos (GDPP), Department of Chemical and Food Engineering, Universi-dad de los Andes, Bogot·, Colombia.
-2 Centro de Investigaciones MicrobiolÛgicas (CIMIC), Department of Biological Sciences, Universidad de los Andes, Bogot·, Colombia.
-3 Naturalius SAS, Bogot·, Colombia.
+1 Grupo de Dise√±o de Productos y Procesos (GDPP), Department of Chemical and Food Engineering, Universi-dad de los Andes, Bogot√°, Colombia.
+2 Centro de Investigaciones Microbiol√≥gicas (CIMIC), Department of Biological Sciences, Universidad de los Andes, Bogot√°, Colombia.
+3 Naturalius SAS, Bogot√°, Colombia.
 4 Grupo Natura, Faculty of Engineering, Design, and Applied Sciences, Universidad ICESI, Cali, Colombia.
 5 Department of Chemical Engineering, Polytechnic Institute and State University from Virginia (Virginia Tech), USA.
 
-*Correspondence: andgonza@uniandes.edu.co
+*Correspondence: andgonza@uniandes.edu.co*; adrian.rodriguez1@u.icesi.edu.co**
 
